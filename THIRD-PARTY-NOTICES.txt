@@ -1,0 +1,13 @@
+Third-party notices
+
+EasyRPG Player
+  Project: https://github.com/EasyRPG/Player
+  Website: https://easyrpg.org/player/
+  License: GPL-3.0-or-later
+
+liblcf
+  Project: https://github.com/EasyRPG/liblcf
+  License: check upstream repository before distribution
+
+RPG Maker 2000/2003 games and RTP assets
+  Not included. Users must provide only files they have rights to use.

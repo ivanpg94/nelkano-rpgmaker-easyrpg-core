@@ -1,0 +1,16 @@
+build/
+dist/
+out/
+third_party/
+*.exe
+*.dll
+*.so
+*.dylib
+*.apk
+*.aab
+*.zip
+*.7z
+*.tar
+*.gz
+*.log
+tmp/

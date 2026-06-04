@@ -1,0 +1,27 @@
+Nelkano RPG Maker 2000/2003 EasyRPG Core
+
+This repository is the public GPL-covered runtime area for Nelkano's RPG Maker
+2000/2003 support. It is separate from the main Nelkano application repository.
+
+License:
+  GPL-3.0-or-later for this repository unless a file says otherwise.
+
+Upstream runtime:
+  EasyRPG Player
+  https://github.com/EasyRPG/Player
+  GPL-3.0-or-later
+
+Distribution rule:
+  If a release distributes EasyRPG Player, modified EasyRPG Player, or a
+  Nelkano wrapper linked/combined with GPL-covered EasyRPG code, the
+  corresponding source code for the GPL-covered work must be available.
+
+Main Nelkano boundary:
+  The main Nelkano application should treat this runtime as an external
+  component. If a future release bundles this runtime inside the main APK/EXE,
+  that release must include clear GPL notices, source availability and an
+  explicit compliance review before publication.
+
+Content rule:
+  This repository must not include games, RPG Maker RTP assets, ROMs, BIOS,
+  firmware, saves, keys or protected third-party content.
