@@ -1,9 +1,0 @@
-Source availability
-
-The source code for Nelkano RPG Maker 2000/2003 EasyRPG Core is available at:
-
-https://github.com/ivanpg94/nelkano-rpgmaker-easyrpg-core
-
-If a binary release includes EasyRPG Player or modified EasyRPG Player, the
-matching source code, build scripts and notices must be published in this
-repository or linked from the release notes.
